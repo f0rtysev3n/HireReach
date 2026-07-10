@@ -4,7 +4,7 @@
 
 **🔒 Closed source** — this repository documents the project's design and engineering. The source code is proprietary.
 
-[**➜ Install from the Chrome Web Store**](YOUR-CHROME-WEB-STORE-LINK) · [Privacy Policy](YOUR-PRIVACY-POLICY-LINK) · [Terms of Service](YOUR-TERMS-LINK)
+[**➜ Install from the Chrome Web Store**](YOUR-CHROME-WEB-STORE-LINK) · [Privacy Policy](https://tender-telescope-db8.notion.site/HireReach-Privacy-Policy-bf93aa8db405490c9d262837749b7afe) · [Terms of Service](https://tender-telescope-db8.notion.site/HireReach-Terms-of-Service-0ef589b27e644d4193e6feab46140a0b)
 
 ---
 
